@@ -10,8 +10,6 @@ AI chatbots are rapidly being used for school, work, and everyday solutions. Yet
 
 ## Research Question
 
-Research Questions
-
 **Q1:** What is the effect of chatbot errors on users' frustration with AI chatbots?
 
 **Q2:** How do repeated chatbot errors affect user trust in AI chatbots and self-reported reading attention?
