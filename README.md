@@ -1,37 +1,46 @@
 # Human Patience and AI Frustration
 
-A student-led research project studying how repeated AI mistakes affect frustration, trust, attention, and verification behavior.
+Research Project led by Students investigating how the impact of AI making mistakes over and over will affect frustration, trust, attention and verification behavior.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 ## Overview
 
-AI chatbots are increasingly used for school, work, and everyday problem solving. However, these systems can give incorrect or inconsistent answers. This project investigates how repeated AI chatbot errors affect how users feel, how much they trust the system, how carefully they read responses, and whether they continue using the AI or switch to another tool.
+AI chatbots are rapidly being used for school, work, and everyday solutions. Yet, these systems may also produce inaccurate and conflicting responses. This project explores the impact of repeated wrong answers from an AI chatbot on user frustration ratings, trust in the AI / chatbot, careful review of responses, and intention to continue using the AI or switch to a competing tool.
 
 ## Research Question
 
-How do repeated AI chatbot errors affect user frustration, trust, reading attention, and behavioral responses such as rephrasing, switching tools, or giving up?
+Research Questions
+
+**Q1:** What is the effect of chatbot errors on users' frustration with AI chatbots?
+
+**Q2:** How do repeated chatbot errors affect user trust in AI chatbots and self-reported reading attention?
+
+**Q3:** How do different behavioral responses (rephrasing, switching tools or giving up) vary by repeated chatbot errors and also impact how challenges affect users?
 
 ## Methods
 
-This study used a scenario-based Google Forms survey. Participants answered questions about their AI use, trust in AI chatbots, frustration across repeated-error scenarios, self-reported attention changes, and likely behavior after repeated wrong answers.
+Methods A scenario-based survey on Google Forms. Participants answered questions regarding the use of AI in general, trust in an AI chatbot, frustration caused by multiple-repeats error responses, self-reported change in attention and likely behavior after receiving several wrong answers.
 
 ## Key Findings
 
-* Frustration increased as AI chatbot errors repeated.
-* Many respondents reported reading AI responses more carefully after mistakes.
-* Many users rephrased their prompts or switched to Google/search instead of immediately giving up.
-* The results suggest a “verification shift,” where repeated AI mistakes move users from trusting the chatbot toward checking, rephrasing, or switching tools.
+* Recurrent AI chatbot errors were met by increased frustration.
+* When mistakes happened, many respondents said they read AI answers with greater care.
+* Users modified their prompts or used Google/search instead of quitting straight away.
+* Findings indicate that after repeated mistakes, users start to move from trusting the chatbot to verifying, rewording statements or switching tools: a “verification shift with AI”.
 
 ## Repository Contents
 
 * `paper/` — final research paper PDF
-* `figures/` — charts and visualizations from the survey results
+* `figures/` — survey results data and basic visualizations
 * `survey/` — survey questions and variable coding plan
 * `data/` — aggregate summary data only
-* `transparency/` — AI use and ethics notes
+* `transparency/` — actual Notes for ai use and ethics
 
 ## Data Note
 
-This repository shares aggregate or anonymized research materials only. Raw survey responses are not publicly shared to protect participant privacy.
+This repository Contains only aggregate or anonymized research materials. 
+NOTE: Survey Responses are not shared publicly to protect user privacy.
 
 ## Authors
 
@@ -39,4 +48,4 @@ Steven Pham and Brian Huynh
 
 ## AI Use Statement
 
-AI tools were used to assist with brainstorming, outlining, editing, chart explanation, literature review organization, and research writing support. The student researchers are responsible for reviewing all content, verifying the data, and ensuring that the final claims accurately reflect the collected survey responses.
+AI tools were utilized for brainstorming and outlining the research paper.
