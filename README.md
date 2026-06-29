@@ -42,7 +42,7 @@ NOTE: Survey Responses are not shared publicly to protect user privacy.
 
 ## Authors
 
-Steven Pham and Brian Huynh
+Steven Pham
 
 ## AI Use Statement
 
