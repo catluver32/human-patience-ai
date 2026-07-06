@@ -1,0 +1,7 @@
+platform,count,percent,n_basis,notes
+ChatGPT (Free),97,53.6,181,Multi-select question; percentages may not sum to 100
+Gemini,38,21.0,181,Multi-select question; percentages may not sum to 100
+Claude,37,20.4,181,Multi-select question; percentages may not sum to 100
+ChatGPT (Plus),30,16.6,181,Multi-select question; percentages may not sum to 100
+Other,25,13.8,181,Multi-select question; percentages may not sum to 100
+Copilot,25,13.8,181,Multi-select question; percentages may not sum to 100

@@ -1,0 +1,7 @@
+measure,value,notes
+Submitted responses,204,Total Google Forms submissions
+Cleaned unique response patterns,181,Used for cleaned descriptive analysis
+Duplicate content responses removed,23,Content-duplicate screening in Google Sheets
+Multiple-times-a-day AI users,62,34.3% of cleaned responses
+Intermediate AI users,97,53.6% of cleaned responses
+Most common age group,25-34,Most common category in cleaned responses

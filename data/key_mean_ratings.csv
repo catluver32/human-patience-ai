@@ -1,0 +1,7 @@
+measure,mean,sd,scale,notes
+Expected accuracy,4.14,1.56,1-7,Expected factual AI answer accuracy
+Overall trust,3.56,1.62,1-7,Overall trust in AI chatbots
+Trust reduction after wrong answer,4.50,1.77,1-7,Wrong answer reduced future trust
+General reliability,3.39,1.47,1-7,Perceived general reliability
+Consistency / predictability,4.06,1.34,1-7,Perceived consistency and predictability
+Frustration composite,4.65,1.19,1-7,Five-item frustration composite
