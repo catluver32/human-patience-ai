@@ -1,3 +1,3 @@
-group,included_categories,count,percent,n_basis
-Switch-away behavior,Switch to Google/search; Switch to a different AI; Give up on the task,108,59.7,181
-Stay-and-repair behavior,Rephrase or simplify my question; Retry with the same question,73,40.3,181
+group,included_categories,count,percent,n_basis,interpretation_note
+Switch-away behavior,Switch to Google/search; Switch to a different AI; Give up on the task,108,59.7,181,Constructed H4 endpoint; composite-frustration model was not significant
+Stay-and-repair behavior,Rephrase or simplify my question; Retry with the same question,73,40.3,181,Constructed comparison group

@@ -1,0 +1,6 @@
+predictor,n,events,slope,se,p,odds_ratio_per_point,or_ci_low,or_ci_high,mcfadden_r2,conclusion
+frustration_composite,181,108,0.0738,0.1282,0.5645,1.0766,0.8375,1.3841,0.0014,Not significant
+A8,181,108,-0.0970,0.0935,0.2997,0.9076,0.7556,1.0901,0.0045,Not significant
+B5of10,181,108,0.0413,0.0995,0.6781,1.0421,0.8576,1.2665,0.0007,Not significant
+terminal_scenario_mean,181,108,-0.0374,0.1012,0.7116,0.9633,0.7900,1.1746,0.0006,Not significant
+all_scenario_mean,181,108,0.1223,0.1107,0.2694,1.1300,0.9096,1.4038,0.0050,Not significant

@@ -1,8 +1,8 @@
 scenario,checkpoint,mean,sd,scale,notes
 Scenario A: always wrong,After 1 wrong answer,2.93,1.72,1-7,Consistent AI failure scenario
-Scenario A: always wrong,After 3 wrong answers,4.36,,1-7,SD not reported in paper text
-Scenario A: always wrong,After 5 wrong answers,5.26,,1-7,SD not reported in paper text
+Scenario A: always wrong,After 3 wrong answers,4.36,1.72,1-7,Rebuilt descriptive value
+Scenario A: always wrong,After 5 wrong answers,5.26,1.64,1-7,Rebuilt descriptive value
 Scenario A: always wrong,After 8 wrong answers,5.77,1.68,1-7,Final checkpoint
 Scenario B: unpredictable,Early,3.34,1.58,1-7,1 mistake out of 3 questions
-Scenario B: unpredictable,Halfway,4.66,,1-7,SD not reported in paper text
+Scenario B: unpredictable,Halfway,4.66,1.55,1-7,3 mistakes out of 6 questions
 Scenario B: unpredictable,Near end,5.59,1.52,1-7,5 mistakes out of 10 questions

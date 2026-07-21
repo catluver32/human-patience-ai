@@ -1,0 +1,10 @@
+family,comparison,n,mean_difference,median_difference,positive_n,zero_n,negative_n,wilcoxon_statistic,p_unadjusted,p_holm,cohen_dz
+Scenario A,A after 3 errors - A after 1 error,181,1.4254,1.0,142,37,2,142.0,1.0348e-28,5.1740e-28,1.2089
+Scenario A,A after 5 errors - A after 1 error,181,2.3260,2.0,152,27,2,193.0,3.8023e-29,2.2814e-28,1.4715
+Scenario A,A after 8 errors - A after 1 error,181,2.8398,3.0,151,25,5,306.0,1.9207e-28,7.6829e-28,1.4894
+Scenario A,A after 5 errors - A after 3 errors,181,0.9006,1.0,117,58,6,694.0,2.0173e-22,4.0347e-22,0.9316
+Scenario A,A after 8 errors - A after 3 errors,181,1.4144,2.0,129,45,7,798.5,2.7963e-23,8.3890e-23,1.0058
+Scenario A,A after 8 errors - A after 5 errors,181,0.5138,0.0,82,94,5,781.5,9.2022e-16,9.2022e-16,0.6160
+Scenario B,B halfway (3/6) - B early (1/3),181,1.3204,1.0,138,42,1,76.0,1.3640e-28,2.7281e-28,1.2070
+Scenario B,B near end (5/10) - B early (1/3),181,2.2486,2.0,155,25,1,76.5,3.2344e-30,9.7033e-30,1.5562
+Scenario B,B near end (5/10) - B halfway (3/6),181,0.9282,1.0,115,64,2,204.0,1.3576e-24,1.3576e-24,0.9968
