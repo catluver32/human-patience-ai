@@ -1,0 +1,4 @@
+analysis,n,estimate_or_counts,p,effect_size_or_pattern,conclusion
+Exclusive forced-choice binomial,95,"Scenario B=60; Scenario A=35",0.01338,Proportion B=.6316,Favors B among exclusive choices
+Paired final-checkpoint sensitivity,181,Mean difference B-A=-0.1823,0.00951,Cohen dz=-0.1743,"B higher=28; equal=101; A higher=52"
+Overall synthesis,181,Forced-choice and paired-rating results conflict,,Operationalizations did not converge,Mixed evidence for H2

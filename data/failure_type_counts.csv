@@ -1,5 +1,5 @@
-category,count,percent,n_basis
-Both equally,75,41.4,181
-Scenario B: unpredictable errors,60,33.1,181
-Scenario A: always wrong,35,19.3,181
-Neither frustrated me much,11,6.1,181
+category,count,percent,n_basis,interpretation_note
+Both equally,75,41.4,181,Most common response
+Scenario B: unpredictable errors,60,33.1,181,Exclusive B-versus-A comparison favored B; exact p=.013
+Scenario A: always wrong,35,19.3,181,Exclusive A response
+Neither frustrated me much,11,6.1,181,Excluded from exclusive B-versus-A binomial comparison

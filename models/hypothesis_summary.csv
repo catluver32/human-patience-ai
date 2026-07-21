@@ -1,0 +1,5 @@
+hypothesis,rebuilt_conclusion,primary_result,interpretation
+H1,Supported,"Scenario A chi-square(3)=374.60 W=.690; Scenario B chi-square(2)=275.12 W=.760; both p<.001",Strong monotonic increases in hypothetical repeated-error ratings
+H2,Mixed,"Exclusive forced choice B=60 A=35 exact p=.013; paired final B-A=-.182 Wilcoxon p=.0095 dz=-.174",Forced-choice and paired-rating operationalizations did not converge
+H3,Partially supported,"Composite any-attention-change OR=1.389 95% CI [0.974 1.980] p=.069; direction rho=-.228 p=.002",Attention-change associations do not establish a shift toward more-careful verification
+H4,Not supported,"Grouped switch-away OR=1.077 95% CI [0.837 1.384] p=.565",External search tool switching and abandonment should be modeled separately

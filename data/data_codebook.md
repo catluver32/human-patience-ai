@@ -1,23 +1,27 @@
 # Data Codebook
 
-## Dataset basis
+## Dataset Basis
 
-- Submitted responses: 204
-- Cleaned unique response patterns used for descriptive analysis: 181
-- Cleaning method: content-duplicate screening in Google Sheets
-- Raw individual-level responses are not included publicly.
+- Submitted responses: 204.
+- Retained response-content patterns: 181.
+- Cleaning method: retain the first occurrence of each pattern and remove later submissions matching across all response fields except timestamp.
+- Raw individual-level responses are not publicly included.
+- The retained patterns are not verified unique identities.
 
-## Scale interpretation
+## Scale Interpretation
 
-Most rating questions used a 1–7 scale, where higher values generally indicate more of the measured construct.
+Most rating questions used a 1-7 scale, where higher values generally indicate more of the measured construct. The five-item frustration composite reverse-coded the positively oriented time-use and AI-confidence items before averaging.
 
-## File descriptions
+Cronbach's alpha was .694. This is described as marginal internal consistency for an exploratory, multidimensional composite—not as scale validation. The composite includes a giving-up item that overlaps with part of H4 and a mental-effort item related to the mechanism proposed for H3.
 
-- `sample_summary.csv` — response-count and sample overview.
-- `key_mean_ratings.csv` — main mean ratings and standard deviations.
-- `scenario_frustration_means.csv` — frustration means for Scenario A and Scenario B.
-- `failure_type_counts.csv` — which failure type was reported as more frustrating.
-- `attention_change_counts.csv` — self-reported reading-attention changes.
-- `first_action_counts.csv` — first action after repeated wrong answers.
-- `behavior_grouped_counts.csv` — grouped switch-away versus stay-and-repair behavior.
-- `chatbot_platform_counts.csv` — chatbot platforms selected by respondents.
+## File Descriptions
+
+- `sample_summary.csv` — submission counts, cleaning basis, and sample overview.
+- `key_mean_ratings.csv` — principal means and standard deviations.
+- `scenario_frustration_means.csv` — Scenario A and Scenario B checkpoint descriptives.
+- `failure_type_counts.csv` — forced-choice failure-type responses used in one H2 operationalization.
+- `attention_change_counts.csv` — self-reported reading-attention categories.
+- `first_action_counts.csv` — intended first action after repeated wrong answers.
+- `behavior_grouped_counts.csv` — constructed switch-away versus stay-and-repair endpoint used for H4.
+- `chatbot_platform_counts.csv` — multiple-selection chatbot-platform responses.
+- [`../models/`](../models/) — rebuilt inferential tables and full statistical workbook.

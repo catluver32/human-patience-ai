@@ -1,0 +1,3 @@
+scenario,n,checkpoints,friedman_chi_square,df,p,kendalls_W,conclusion
+Scenario A: always wrong,181,4,374.6016,3,7.0175e-81,0.6899,Strong increase
+Scenario B: inconsistently wrong,181,3,275.1248,2,1.8089e-60,0.7600,Strong increase
